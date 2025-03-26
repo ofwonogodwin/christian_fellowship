@@ -3,8 +3,8 @@ from.import views
 
 #List of URLS.
 urlpatterns = [
-    path('',views.index),
-    path('about/',views.about),
-    path('gallery/',views.gallery),
-    path('contact/',views.contact),
+    path('',views.index,name = 'homepage'),
+    path('about/',views.about,name = 'aboutpage'),
+    path('gallery/',views.gallery,name = 'gallerypage'),
+    path('contact/',views.contact,name= 'contactpage'),
 ]
