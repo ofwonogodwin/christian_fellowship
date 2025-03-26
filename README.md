@@ -1,5 +1,5 @@
 
-# Utamu Christian Fellowship Website
+# Utamu Christian Fellowship Website(In development)
 
 A simple and elegant Christian Fellowship Website built with Django. This platform provides information about the fellowship, showcases moments in the gallery, and allows visitors to contact the team.
 
