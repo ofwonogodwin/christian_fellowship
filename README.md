@@ -56,21 +56,7 @@ python manage.py runserver
 
 **Now, visit http://127.0.0.1:8000/ in your browser! 🎉**
 
-## Folder Structure
 
-christian-fellowship-website/<br>
-│── static/                  ____# Static files (CSS, images)<br>
-│── templates/               ____# HTML templates<br>
-│   ├── base.html<br>
-│   ├── home.html<br>
-│   ├── about.html<br>
-│   ├── gallery.html<br>
-│   ├── contact.html<br>
-│── home/              ____# Django app folder<br>
-│── manage.py                ____# Django project manager<br>
-│── db.sqlite3                ____# SQLite database (default)<br>
-│── README.md                ____# Project documentation<br>
-│── requirements.txt         ____# Project dependencies<br>
 
 ## Contributing
 
