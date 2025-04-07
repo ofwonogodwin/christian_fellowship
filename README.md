@@ -1,5 +1,5 @@
 
-# Utamu Christian Fellowship Website(In development)
+# Utamu Christian Fellowship Website(In slow development)
 
 This is  simple and elegant Christian Fellowship Website built with Django. 
 
