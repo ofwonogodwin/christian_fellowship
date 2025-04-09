@@ -20,15 +20,7 @@ This platform provides information about the fellowship, showcases moments in th
 	•	Database: SQLite3 (default Django DB)
 	•	Version Control: Git & GitHub
 
-## Screenshots(To be updated)
 
-🌟 Home Page
-
-📖 About Page
-
-🖼️ Gallery Page
-
-✉️ Contact Page
 
 ## Setup Instructions
 
