@@ -56,8 +56,8 @@ python manage.py runserver
 	3.	Commit your changes (git commit -m "Added feature")
 	4.	Push to the branch (git push origin feature-name)
 	5.	Open a pull request
+## How to Reach me
 
-
-### 📧 Email: godwinofwono933@gmail.com
-### 🌐 GitHub: ofwonogodwin
+#### 📧 Email: godwinofwono933@gmail.com
+#### 🌐 GitHub: ofwonogodwin
 
