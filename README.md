@@ -1,5 +1,5 @@
 
-# Christian Fellowship Website(In slow development)
+# Christian Fellowship Website(Development to be continued)
 
 This is  simple and elegant Christian Fellowship Website built with Django. 
 
